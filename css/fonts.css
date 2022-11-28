@@ -1,0 +1,65 @@
+/*  font-family: Abel  */
+@font-face {
+  font-family: Abel;
+  src: url("../Fonts/Abel/Abel-Regular.ttf");
+}
+
+/*  font-family: Anton  */
+@font-face {
+  font-family: Anton;
+  src: url("../fonts/Anton/Anton-Regular.ttf");
+}
+
+/*  font-family: Josefin  */
+@font-face {
+  font-family: Josefin;
+  src: url("../Fonts/Josefin_Sans/JosefinSans-Regular.ttf");
+}
+
+/*  font-family: Lexend  */
+@font-face {
+  font-family: Lexend;
+  src: url("../Fonts/Lexend_Deca/LexendDeca-Regular.ttf");
+}
+
+/*  font-family: Livvic  */
+@font-face {
+  font-family: Livvic;
+  src: url("../fonts/Livvic/Livvic-Regular.ttf");
+}
+
+/*  font-family: CormorantGaramond  */
+@font-face {
+  font-family: CormorantGaramond;
+  src: url(/Fonts/CormorantGaramond/CormorantGaramond-Bold.ttf);
+}
+
+/*  font-family: Roboto  */
+@font-face {
+  font-family: Roboto;
+  src: url(/Fonts/Roboto/Roboto-Bold.ttf);
+}
+
+/*  font-family: The_Big_Apple  */
+@font-face {
+  font-family: The_Big_Apple;
+  src: url(/Fonts/The_Big_Apple/The\ Big\ Apple.otf);
+}
+
+/*  font-family: Spy  */
+@font-face {
+  font-family: Spy;
+  src: url(/Fonts/Spy/Spy.ttf);
+}
+
+/*  font-family: Barbara  */
+@font-face {
+  font-family: Barbara;
+  src: url(/Fonts/BARBARA/BARBARA\ PERSONAL\ USE.ttf);
+}
+
+/*  font-family: LibreBodoni  */
+@font-face {
+  font-family: LibreBodoni;
+  src: url(/Fonts//LibreBodoni/LibreBodoni-VariableFont_wght.ttf);
+}
